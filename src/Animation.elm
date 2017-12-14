@@ -118,6 +118,7 @@ module Animation
         , sepia
         , dropShadow
         , px
+        , vh
         , percent
         , em
         , rem
